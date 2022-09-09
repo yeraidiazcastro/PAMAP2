@@ -7,8 +7,8 @@ Specific Requirements
 
 You are required to:
 
-1 - Carry out thorough exploratory data analysis and appropriately handle missing or dirty data;
+1 - Carry out thorough exploratory data analysis and appropriately handle missing or dirty data.
 
-2 - Develop and test at least one hypothesis for a relationship between a single pair of attributes;
+2 - Develop and test at least one hypothesis for a relationship between a single pair of attributes.
 
 3 - Develop and test at least one model which uses multiple attributes to make predictions.
